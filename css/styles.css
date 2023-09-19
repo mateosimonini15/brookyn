@@ -1,0 +1,96 @@
+header {
+    background-color: rgba(247, 247, 247, 0.562);
+    position: sticky;top: 0;
+    height: 134px;
+    }
+
+h1{
+    font-family: 'Tilt Prism', cursive;
+    color: rgb(255, 255, 255);
+    font-size:100px;
+    }  
+
+    body {
+    background-image: url(../img/USA_Bridges_Brooklyn_438223.jpg);
+    background-attachment: fixed;
+    text-align: center;
+    background-size: 1500px;
+    }
+
+.nav {
+    display: flex; 
+    list-style: none;
+    justify-content: end;
+    gap: 30px;
+    margin-top: -80px;
+    margin-right: 40px;
+    }
+.logo {
+    width: 178px;
+    display: flex;
+    }
+.texto-home {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    font-family: 'Tilt Prism', cursive;
+    background-attachment: fixed;
+    }
+
+p{
+color: rgb(255, 255, 255);
+font-family: 'Tilt Prism', cursive;
+}
+h2{
+color: rgb(255, 255, 255);
+font-family: 'Tilt Prism', cursive;
+}
+
+ul{
+color: rgb(255, 255, 255);font-family: 'Tilt Prism', cursive;
+}
+
+form{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+p a{
+    color: aliceblue;
+}
+
+
+.sneaker{
+    width: 500px;
+    height: 500px;
+}
+
+.sneaker img {
+    width: 450px;
+    display: block;
+    margin: 0 auto;
+    padding: 50px
+}
+
+
+
+.grid-container {
+    display: grid; 
+    gap: 20px;
+    
+grid-template-columns: 3fr 3fr 3fr;
+}
+
+.sneaker {
+        padding: 10px;
+        background-color: #00000000;
+        border: 1px solid #ff000000;
+}
+
+
+div {
+    text-align: center;
+    margin-bottom: 16;
+}
+
+
+
